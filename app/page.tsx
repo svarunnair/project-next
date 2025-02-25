@@ -8,7 +8,13 @@ export default function Home() {
    <h1>haiii</h1>
    <Link href="/users">Users</Link>
    <ProductCard/>
-   <input placeholder='email id'/>
+ <input
+        type="text"
+        placeholder="Enter text..."
+        color='black'
+        className="border p-2 rounded-md"
+      />
+      <text>gfddsfghj</text>
 
     </main>
   )
