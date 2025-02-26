@@ -15,6 +15,7 @@ export default function Home() {
         className="border p-2 rounded-md"
       />
       <text>gfddsfghj</text>
+      <text>gfddsfghj</text>
 
     </main>
   )
